@@ -2,6 +2,12 @@
 name = "noilib-simple"
 version = "0.5.0"
 edition = "2021"
+description = "A simple noise library"
+license-file = "LICENSE"
+readme = "README.md"
+repository = "https://github.com/engusmaze/noilib-simple-rs"
+homepage = "https://github.com/engusmaze/noilib-simple-rs"
+exclude = ["test-images/"]
 
 [[test]]
 name = "test"
