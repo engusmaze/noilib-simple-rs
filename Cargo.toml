@@ -1,0 +1,27 @@
+[package]
+name = "noilib-simple"
+version = "0.5.0"
+edition = "2021"
+
+[[test]]
+name = "test"
+
+[[bench]]
+name = "bench"
+
+[[example]]
+name = "perlin"
+
+[[example]]
+name = "value"
+
+[[example]]
+name = "value-octaves"
+
+[[example]]
+name = "perlin-octaves"
+
+[dev-dependencies]
+image = "*"
+
+[dependencies]
