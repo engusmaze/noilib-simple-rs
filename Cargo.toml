@@ -29,6 +29,6 @@ name = "value-octaves"
 name = "perlin-octaves"
 
 [dev-dependencies]
-image = "*"
+image = "0.24.2"
 
 [dependencies]
