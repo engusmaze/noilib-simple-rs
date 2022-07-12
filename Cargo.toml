@@ -8,6 +8,7 @@ readme = "README.md"
 repository = "https://github.com/engusmaze/noilib-simple-rs"
 homepage = "https://github.com/engusmaze/noilib-simple-rs"
 exclude = ["test-images/"]
+authors = ["Michael <labyrinthstudio24@gmail.com>"]
 
 [[test]]
 name = "test"
