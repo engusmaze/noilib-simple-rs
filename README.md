@@ -1,3 +1,5 @@
+Archiving due to (too slow)
+
 # Noilib simple
 
 This is just a simple implementation of perlin noise and value noise made in rust.
